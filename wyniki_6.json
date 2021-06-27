@@ -1,0 +1,7 @@
+MongoDB shell version v3.6.3
+connecting to: mongodb://127.0.0.1:27017/nbd
+MongoDB server version: 3.6.3
+{
+	"acknowledged" : true,
+	"insertedId" : ObjectId("60aeb6c8721dafccdaaf0c2c")
+}
