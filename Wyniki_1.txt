@@ -1,0 +1,64 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvo+uWCkIEUpkzGNlaHvvf4svCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23422>; rel="up"
+Last-Modified: Tue, 29 Jun 2021 19:24:54 GMT
+ETag: "7T3XHb24wHE8T27FwMsHIb"
+Date: Tue, 29 Jun 2021 19:24:54 GMT
+Content-Type: application/json
+Content-Length: 80
+
+{imie:Mariusz,nazwisko:Pudzianowski,Kanapka z bananem:false,Wielki Polak:true}
+
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvo8uF80DspkymBIZ81gZdr/3v8WXBQA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23422>; rel="up"
+Last-Modified: Tue, 29 Jun 2021 19:25:47 GMT
+ETag: "1Tv4RwNGrSXaejyhSYdb4r"
+Date: Tue, 29 Jun 2021 19:25:47 GMT
+Content-Type: application/json
+Content-Length: 70
+
+{imie:Adam,nazwisko:Malysz,Kanapka z bananem:true,Wielki Polak:true}
+
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvo8unl4KZDNlMCUy5rEyXH/vf4svCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23422>; rel="up"
+Last-Modified: Tue, 29 Jun 2021 19:26:15 GMT
+ETag: "6GYrOpZB9089HY3GZK2XTO"
+Date: Tue, 29 Jun 2021 19:26:15 GMT
+Content-Type: application/json
+Content-Length: 76
+
+{imie:Robert,nazwisko:Makowicz,Kanapka z bananem:false,Wielki Polak:true}
+
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvo8untkMEUpkzGNl+Pne/xZfFgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23422>; rel="up"
+Last-Modified: Tue, 29 Jun 2021 19:26:49 GMT
+ETag: "62J9DcGLsQqHU6FxlQeXux"
+Date: Tue, 29 Jun 2021 19:26:49 GMT
+Content-Type: application/json
+Content-Length: 78
+
+{imie:Robert,nazwisko:Lewandowski,Kanapka z bananem:false,Wielki Polak:true}
+
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvo8ubt0EEUpkzGNl0Pjgf4svCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23422>; rel="up"
+Last-Modified: Tue, 29 Jun 2021 19:27:36 GMT
+ETag: "1klnkeG2Bo8BWB0X2Ye4PZ"
+Date: Tue, 29 Jun 2021 19:27:36 GMT
+Content-Type: application/json
+Content-Length: 79
+
+{imie:Jareczek,nazwisko:Kaczynski,Kanapka z bananem:false,Wielki Polak:false}

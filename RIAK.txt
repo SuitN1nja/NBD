@@ -1,0 +1,43 @@
+Zadanie 1
+
+curl -i -XPUT -H “Content-Type:application/json” –d’{"imie":”Mariusz”,"nazwisko":”Pudzianowski”,”Kanapka z bananem”:false,"Wielki Polak":true}’ http://127.0.0.1:8098/buckets/s23422/keys/pudzian?returnbody=true
+curl -i -XPUT -H “Content-Type:application/json” –d’{"imie":”Adam”,"nazwisko":”Malysz”,”Kanapka z bananem”:true,"Wielki Polak":true}’ http://127.0.0.1:8098/buckets/s23422/keys/malysz?returnbody=true
+curl -i -XPUT -H “Content-Type:application/json” –d’{"imie":”Robert”,"nazwisko":”Maklowicz”,”Kanapka z bananem”:false,"Wielki Polak":true}’ http://127.0.0.1:8098/buckets/s23422/keys/maklowicz?returnbody=true
+curl -i -XPUT -H “Content-Type:application/json” –d’{"imie":”Robert”,"nazwisko":”Lewandowski”,”Kanapka z bananem”:false,"Wielki Polak":true}’ http://127.0.0.1:8098/buckets/s23422/keys/lewy?returnbody=true
+curl -i -XPUT -H “Content-Type:application/json” –d’{"imie":”Jareczek”,"nazwisko":”Kaczynski”,”Kanapka z bananem”:false,"Wielki Polak":false}’ http://127.0.0.1:8098/buckets/s23422/keys/Jareczek?returnbody=true
+
+Zadanie 2
+
+curl -i -XGET http://127.0.0.1:8098/buckets/s23422/keys/lewy?returnbody=true
+
+Zadanie 3
+
+curl -i -XPUT -H “Content-Type:application/json” –d’{"imie":”Mariusz”,"nazwisko":”Pudzianowski”,”Kanapka z bananem”:false,"Wielki Polak":true,"Wielki_bajceps":true}’ http://127.0.0.1:8098/buckets/s23422/keys/pudzian?returnbody=true
+
+Zadanie 4
+
+curl -i -XPUT -H “Content-Type:application/json” –d’{"imie":”Robert”,"nazwisko":”Lewandowski”,"Wielki Polak":true}’ http://127.0.0.1:8098/buckets/s23422/keys/lewy?returnbody=true
+
+Zadanie 5
+
+curl -i -XPUT -H “Content-Type:application/json” –d’{"imie":”Robert”,"nazwisko":”Maklowicz”,”Kanapka z bananem”:true,"Wielki Polak":true}’ http://127.0.0.1:8098/buckets/s23422/keys/maklowicz?returnbody=true
+
+Zadanie 6
+
+curl -i -XDELETE http://127.0.0.1:8098/buckets/s23422/keys/Jareczek
+
+Zadanie 7
+
+curl -i -XGET http://127.0.0.1:8098/buckets/s23422/keys/Jareczek
+
+Zadanie 8
+
+curl -i -XPOST -H "Content-Type: application/json" -d'{"POLSKA GUROM":true}' http://127.0.0.1:8098/buckets/s23422/keys
+
+Zadanie 9
+
+curl -i -XGET http://127.0.0.1:8098/buckets/s23422/keys/2QUMCsAVh3WT0YzI4P9qUSscOmY
+
+Zadanie 10
+
+curl -i -XDELETE http://127.0.0.1:8098/buckets/s23422/keys/2QUMCsAVh3WT0YzI4P9qUSscOmY
