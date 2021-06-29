@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvo8unl4KZDNlMCUy5bEyKH/yv8WXBQA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23422>; rel="up"
+Last-Modified: Tue, 29 Jun 2021 19:36:03 GMT
+ETag: "6BImoeolSfXuCsl9XB1kar"
+Date: Tue, 29 Jun 2021 19:36:03 GMT
+Content-Type: application/json
+Content-Length: 75
+
+{imie:Robert,nazwisko:Maklowicz,Kanapka z bananem:true,Wielki Polak:true}

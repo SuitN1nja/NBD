@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvo8untkMEUpkymNlWPjR/xZfFgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23422>; rel="up"
+Last-Modified: Tue, 29 Jun 2021 19:33:53 GMT
+ETag: "Rpr2fCzFb2jrXmQWCMTK0"
+Date: Tue, 29 Jun 2021 19:33:53 GMT
+Content-Type: application/json
+Content-Length: 54
+
+{imie:Robert,nazwisko:Lewandowski,Wielki Polak:true}

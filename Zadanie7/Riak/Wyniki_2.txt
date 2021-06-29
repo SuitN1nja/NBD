@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvo8untkMEUpkzGNl+Pne/xZfFgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23422>; rel="up"
+Last-Modified: Tue, 29 Jun 2021 19:26:49 GMT
+ETag: "62J9DcGLsQqHU6FxlQeXux"
+Date: Tue, 29 Jun 2021 19:29:44 GMT
+Content-Type: application/json
+Content-Length: 78
+
+{imie:Robert,nazwisko:Lewandowski,Kanapka z bananem:false,Wielki Polak:true}
