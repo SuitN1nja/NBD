@@ -1,0 +1,206 @@
+﻿[
+  {
+    "wspolAktorzy": {
+"identity": 71,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Tom Hanks",
+"born": 1956
+      }
+    }
+  },
+  {
+    "wspolAktorzy": {
+"identity": 107,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jim Broadbent",
+"born": 1949
+      }
+    }
+  },
+  {
+    "wspolAktorzy": {
+"identity": 106,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Halle Berry",
+"born": 1966
+      }
+    }
+  },
+  {
+    "wspolAktorzy": {
+"identity": 118,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Ben Miles",
+"born": 1967
+      }
+    }
+  },
+  {
+    "wspolAktorzy": {
+"identity": 115,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Natalie Portman",
+"born": 1981
+      }
+    }
+  },
+  {
+    "wspolAktorzy": {
+"identity": 117,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "John Hurt",
+"born": 1940
+      }
+    }
+  },
+  {
+    "wspolAktorzy": {
+"identity": 116,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Stephen Rea",
+"born": 1946
+      }
+    }
+  },
+  {
+    "wspolAktorzy": {
+"identity": 3,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Laurence Fishburne",
+"born": 1961
+      }
+    }
+  },
+  {
+    "wspolAktorzy": {
+"identity": 2,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Carrie-Anne Moss",
+"born": 1967
+      }
+    }
+  },
+  {
+    "wspolAktorzy": {
+"identity": 1,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Keanu Reeves",
+"born": 1964
+      }
+    }
+  },
+  {
+    "wspolAktorzy": {
+"identity": 3,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Laurence Fishburne",
+"born": 1961
+      }
+    }
+  },
+  {
+    "wspolAktorzy": {
+"identity": 2,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Carrie-Anne Moss",
+"born": 1967
+      }
+    }
+  },
+  {
+    "wspolAktorzy": {
+"identity": 1,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Keanu Reeves",
+"born": 1964
+      }
+    }
+  },
+  {
+    "wspolAktorzy": {
+"identity": 8,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Emil Eifrem",
+"born": 1978
+      }
+    }
+  },
+  {
+    "wspolAktorzy": {
+"identity": 3,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Laurence Fishburne",
+"born": 1961
+      }
+    }
+  },
+  {
+    "wspolAktorzy": {
+"identity": 2,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Carrie-Anne Moss",
+"born": 1967
+      }
+    }
+  },
+  {
+    "wspolAktorzy": {
+"identity": 1,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Keanu Reeves",
+"born": 1964
+      }
+    }
+  }
+]
